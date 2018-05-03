@@ -18,3 +18,6 @@ def say_hello_world():
 # say_hello_world function:
 btn.when_pressed = say_hello_world
 
+# Loop infinitely
+while True:
+    pass

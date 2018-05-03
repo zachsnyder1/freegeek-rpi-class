@@ -17,3 +17,6 @@ def play_cool_sound():
 
 btn = Button(17)
 btn.when_pressed = play_cool_sound
+
+while True:
+    pass
